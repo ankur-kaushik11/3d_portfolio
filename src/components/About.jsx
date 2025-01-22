@@ -67,7 +67,7 @@ const About = () => {
           <AiOutlineInstagram />
         </a>
         <a
-          href="https://linktr.ee/rathi17" target="_blank">
+          href="https://linktr.ee/Ankur_Kaushik11" target="_blank">
           <BiLinkAlt />
         </a>
       </div>
